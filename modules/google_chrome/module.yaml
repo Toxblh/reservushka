@@ -1,0 +1,8 @@
+version: 1.0
+name: google-chrome
+icon: icon.png
+backup_paths:
+  - ~/.config/google-chrome
+profiles_script: detect_profiles.sh
+backup_script: backup.sh
+restore_script: restore.sh

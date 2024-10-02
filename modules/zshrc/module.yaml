@@ -1,0 +1,5 @@
+version: 1.0
+name: zshrc
+icon: icon.png
+backup_paths:
+  - ~/.zshrc

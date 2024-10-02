@@ -1,0 +1,6 @@
+version: 1.0
+name: gnome_credentials
+icon: icon.png            # Опционально
+backup_paths: []
+backup_script: backup.sh
+restore_script: restore.sh

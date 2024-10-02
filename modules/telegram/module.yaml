@@ -1,0 +1,7 @@
+version: 1.0
+name: telegram
+icon: icon.png
+backup_paths: 
+- ~/.local/share/TelegramDesktop
+backup_script: backup.sh
+restore_script: restore.sh
